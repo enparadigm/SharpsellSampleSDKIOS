@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "moengage-ios-inapps",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/moengage/MoEngage-iOS-InApps",
+      "state" : {
+        "revision" : "441fd094f0c4a0fdb03b2a367cd6c7561a291dd9",
+        "version" : "4.8.3"
+      }
+    },
+    {
+      "identity" : "moengage-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/moengage/MoEngage-iOS-SDK",
+      "state" : {
+        "revision" : "ce3a90f08d93ea6d3781ef9e117f635d3c6bf734",
+        "version" : "9.15.0"
+      }
+    },
+    {
+      "identity" : "sharpsellcore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/enparadigm/SharpsellCore",
+      "state" : {
+        "revision" : "ae89aada156454c230febe49c67f4b728b02bf5d",
+        "version" : "3.10.1"
+      }
+    }
+  ],
+  "version" : 2
+}
